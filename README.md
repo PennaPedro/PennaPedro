@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pedro Penna
 - 🔥Front-End Developer
-- 👨‍💻 I'm Currently studying
+- 👨‍💻 I'm work on Rentcars
 
 ##
 <div align="left">
